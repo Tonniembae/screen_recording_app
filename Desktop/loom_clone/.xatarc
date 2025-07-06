@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Tonnie-Junior-s-workspace-thjn3s.us-east-1.xata.sh/db/ClipNova",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
